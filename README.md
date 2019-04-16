@@ -17,6 +17,7 @@ https://files.slack.com/files-pri/TEMJ55FS5-FJ1UUNXK8/image_from_ios.png
 -GOOGLE ANALYTICS-
 Tracking ID
 UA-138408448-1
+https://analytics.google.com/analytics/web/provision/?authuser=0#/a138408448w199127279p193611566/admin/tracking/tracking-code/
 
 -COPYRIGHT and PLAGARISM-
 
